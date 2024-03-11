@@ -1,0 +1,4 @@
+@media print {
+    /* .text-xs { font-style: italic !important; font-weight: bold !important; } */
+    .border { border-style: dotted !important; border-color: black !important;}
+  }
